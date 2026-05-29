@@ -1,0 +1,27 @@
+{
+  "name": "wipro-sdet-playwright-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandu3d/Wipro-SDET-Playwright-Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chandu3d/Wipro-SDET-Playwright-Training/issues"
+  },
+  "homepage": "https://github.com/chandu3d/Wipro-SDET-Playwright-Training#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  },
+  "dependencies": {
+    "@zerostep/playwright": "^0.1.5",
+    "dotenv": "^17.4.2"
+  }
+}
